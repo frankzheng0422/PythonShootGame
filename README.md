@@ -11,7 +11,7 @@ This project only include two simple .py files:
 
 # Requirement
 
-1. Python 2.7
+1. Python 3
 2. Python-Pygame
   
 # How To Start Game
